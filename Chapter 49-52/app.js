@@ -98,4 +98,13 @@
 //     e.parentNode.parentNode.remove();
 // }
 
+
+// <form class="form-inline hidden" id="new-form">
+//     <input type="text" id="newId" class="form-control mb-2 mr-sm-2" placeholder="ID">
+//     <input type="text" id="newName" class="form-control mb-2 mr-sm-2" placeholder="ID">
+//     <input type="text" id="newSubject" class="form-control mb-2 mr-sm-2" placeholder="ID">
+//     <button class="btn btn-primary" type="button" onclick="editBtn()">Update</button>
+// </form>
+
+
 //  CHAPTER 49-52 End 

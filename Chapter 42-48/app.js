@@ -33,11 +33,11 @@
 
 // Task 4
 // function setNewImage(){
-//  document.getElementById("img1").src = "images/car2.jpg"
+//  document.getElementById("img1").src = "car2.jpg"
 // }
 
 // function setOldImage(){
-//     document.getElementById("img1").src = "images/car1.jpg"
+//     document.getElementById("img1").src = "car1.jpg"
 // }
 
 

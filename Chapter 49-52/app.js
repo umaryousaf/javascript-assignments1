@@ -99,18 +99,7 @@
 // }
 
 
-// function newForm(e){
-//     var tr = e.parentNode.parentNode;
 
-//     var id = e.parentNode.parentNode.firstChild.nodeValue;
-
-//     document.getElementById("table").setAttribute("class" , "hidden")
-//     document.getElementById("new-form").classList.remove("hidden")
-
-//     document.getElementById("newId").value = tr.childNodes[0].innerText;
-//     document.getElementById("newName").value = tr.childNodes[1].innerText;
-//     document.getElementById("newSubject").value = tr.childNodes[2].innerText;
-// }
 
 
 //  CHAPTER 49-52 End 
